@@ -1,0 +1,22 @@
+{
+  "name": "Component",
+  "version": "0.1.0",
+  "summary": "A short description of Component.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/610402640@qq.com/Component",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "610402640@qq.com": "610402640@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/610402640@qq.com/Component.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "Component/Classes/**/*"
+}
